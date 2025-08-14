@@ -1,1 +1,0 @@
-<div>About This App</div>

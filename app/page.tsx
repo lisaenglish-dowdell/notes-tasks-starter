@@ -1,1 +1,0 @@
-<div>Welcome to the Notes & Tasks App</div>
